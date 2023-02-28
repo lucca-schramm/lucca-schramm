@@ -9,7 +9,7 @@ I am student in career transition, looking for opportunities and collabaration i
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucca-schramm&theme=tokyonight)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucca-schramm/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luccaschramm/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccascho@gmail.com)](mailto:luccascho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccascho@gmail.com)](mailto:luccascho@gmail.com)
 
 ## ⚡ Technologies
 
