@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+
 
 ### Hi 👋
 I am student in career transition, looking for opportunities and collabaration in any projects but i prefer those related to deep learning and data science.
