@@ -7,7 +7,6 @@ I am student in career transition, looking for opportunities and collabaration i
 
 ![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=lucca-schramm&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucca-schramm&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucca-schramm&theme=blue-green))
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucca-schramm/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luccaschramm/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luccascho@gmail.com)](mailto:luccascho@gmail.com)
@@ -33,3 +32,4 @@ I am student in career transition, looking for opportunities and collabaration i
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lucca-schramm.lucca-schramm)
+![Profile View Counter](https://komarev.com/ghpvc/?username=lucca-schramm)
