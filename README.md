@@ -32,4 +32,3 @@ I am student in career transition, looking for opportunities and collabaration i
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lucca-schramm.lucca-schramm)
-![Profile View Counter](https://komarev.com/ghpvc/?username=lucca-schramm)
