@@ -1,8 +1,8 @@
 
 
 ### Hi, welcome to my profile! My name is Lucca. 👋
-I am student in career transition, looking for opportunities and collabaration in any projects but i prefer those related to deep learning and data science.
-- 🔭 I’m currently learning HTML, CSS, JavaScript and Node.js.
+I am student in career transition, looking for opportunities and collabaration in any projects but i prefer those related to what i'm focused in the moment.
+- 🔭 I’m currently learning Angular.
 - 🤝 I’m looking to collaborate on any projects. 
 
 ![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=lucca-schramm&count_private=true&show_icons=true&theme=radical)
