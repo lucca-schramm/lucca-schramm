@@ -1,7 +1,8 @@
 
 
 ### Hi, welcome to my profile! My name is Lucca. 👋
-I am student in career transition, looking for opportunities and collabaration in any projects but i prefer those related to what i'm focused in the moment.
+I am looking for opportunities to collabarate in any projects but i prefer those related to Angular.
+
 - 🔭 I’m currently learning Angular.
 - 🤝 I’m looking to collaborate on any projects. 
 
