@@ -14,7 +14,7 @@ About me
 ✒️ In my free time, I enjoy playing games and spending time with my girlfriend, friends, and family.;
 
 ## I have previously worked with... 🔧
-# Technologies and Tools
+ Technologies and Tools
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
