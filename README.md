@@ -2,15 +2,19 @@
 
 ### Hi, welcome to my profile! My name is Lucca. 👋
 
-- 🔭 I’m currently learning backend development.
+About me
+💻 I'm Fullstack developer
 
-![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=lucca-schramm&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucca-schramm&theme=blue-green)
+🎓 I study Software Development focused in Back-End on @CubosAcademy
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucca-schramm/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luccaschramm/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luccascho@gmail.com)](mailto:luccascho@gmail.com)
+👩‍💻 Currently, I work as a Frontend Developer at @UNLKD.
 
-## ⚡ Technologies
+🔎 I also am curious about sports and politics.
+
+✒️ In my free time, I enjoy playing games and spending time with my girlfriend, friends, and family.;
+
+## I have previously worked with... 🔧
+# Technologies and Tools
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -28,7 +32,7 @@
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-## ⚡ Learning
+## I'm Learning ⚡
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
@@ -40,7 +44,12 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucca-schramm&theme=blue-green)
+![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=lucca-schramm&count_private=true&show_icons=true&theme=radical)
 
+# Contact Me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucca-schramm/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luccascho@gmail.com)](mailto:luccascho@gmail.com)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lucca-schramm.lucca-schramm)
