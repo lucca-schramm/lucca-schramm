@@ -1,10 +1,8 @@
 
 
 ### Hi, welcome to my profile! My name is Lucca. 👋
-I am looking for opportunities to collaborate in any projects but i prefer those related to Angular.
 
-- 🔭 I’m currently learning Angular.
-- 🤝 I’m looking to collaborate on any projects. 
+- 🔭 I’m currently learning backend development.
 
 ![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=lucca-schramm&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucca-schramm&theme=blue-green)
