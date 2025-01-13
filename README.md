@@ -7,7 +7,7 @@ About me
 
 🎓 I study Software Development focused in Back-End on @CubosAcademy
 
-👩‍💻 Currently, I work as a Frontend Developer at @UNLKD.
+👩‍💻 Currently, I work as a Fullstack Developer at @Casa de Apostas.
 
 🔎 I also am curious about sports and politics.
 
